@@ -3,7 +3,7 @@
 ### Si es la primera vez que subiremos un cambio, debemos seguir el siguiente flujo:
 
 1. Crear repositorio público, por ejemplo con nombre "ejemplo"
-2. Ir a mi proyecto, abrir una terminal y ejecutar los siguientes comandos
+2. Ir a mi proyecto, abrir una terminal en Visual Studio Code y ejecutar los siguientes comandos
 ```
    git init
 ```
