@@ -25,6 +25,8 @@ Este comando conecta el repositorio local con el repositorio remoto creado en el
 ```
 Este comando empujará los cambios locales al repositorio remoto de github
 
+-------------------------------------------------------------------------
+
 ### Si NO es la primera vez que subiremos un cambio, debemos seguir el siguiente flujo:
 ```
    git add .
